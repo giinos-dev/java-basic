@@ -1,5 +1,8 @@
 package com.giinos.learn.java.basic;
 
+/**
+ * This example show us that you should beware on return on catch block and finally block will be ignored.
+ * */
 public class ReturnBeforeFinallyBlock {
 
 	public static void main(String[] args) {
